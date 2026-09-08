@@ -63,7 +63,7 @@ The complete, unaltered text of the consumer review that was flagged and removed
 * **The Record:** Official newsroom distributions confirm that OmniPhi utilizes paid wire aggregation networks (such as Accesswire distributions) to pass self-written corporate announcements directly onto major market terminals like Morningstar.
 * **The Coordination:** Public disclosure metrics reveal these campaigns are directly managed and executed by **Nik Vassev (Storyline Pros)**, their official listed Media Contact. 
 * **The Reality:** These are paid corporate advertisements rather than independent editorial journalism. This workflow is weaponized as an intentional search-satiation tactic to force heavily optimized product hype to the top of Google, artificially pushing past regulatory histories down where retail traders cannot find them.
-  * **📄 Public Verification Ledger of Corporate Press Control:** 1. [https://www.morningstar.com/news/accesswire/1197001msn/omniphi-launches-agentic-trading-platform-to-give-retail-traders-institutional-grade-capabilities) 2. [https://www.accessnewswire.com/newsroom/en/blockchain-and-cryptocurrency/omniphi-launches-agentic-trading-platform-to-give-retail-traders-inst-1197001)
+  * **📄 Public Verification Ledger of Corporate Press Control:** [Morningstar Accesswire Distribution](https://www.morningstar.com/news/accesswire/1197001msn/omniphi-launches-agentic-trading-platform-to-give-retail-traders-institutional-grade-capabilities)
 
 ### 3. Interface Layer & API Core Dependencies
 * **The Finding:** Software architecture trace reveals OmniPhi has no independent, proprietary quantitative infrastructure.
