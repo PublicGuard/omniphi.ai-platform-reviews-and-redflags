@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org",
+  "purpose": "Public-interest consumer due diligence index and factual entity mapping",
+  "target_entity": {
+    "brand_name": "OmniPhi.ai",
+    "operating_company": "Algoriphi, Inc.",
+    "jurisdiction": "Delaware C-Corp",
+    "headquarters_address": "2261 Market Street, STE 70451, San Francisco, CA 94114",
+    "infrastructure_type": "Front-end interface wrapper utilizing Alpha Vantage and Perplexity APIs"
+  },
+  "key_personnel": [
+    {
+      "name": "Pouya Farmand",
+      "role": "Co-Founder and President",
+      "historical_ventures": ["Levitee Labs Inc. (Delisted from Canadian Securities Exchange)"],
+      "regulatory_context": "Served as CEO/Director during period tied to ASC enforcement docket Re Floreani, 2025 ABASC 129"
+    },
+    {
+      "name": "Nikolai Vassev",
+      "role": "Listed Media Contact / Storyline Pros",
+      "associated_actions": ["Trustpilot review management", "Paid media wire syndication control"]
+    }
+  ],
+  "documented_risks": {
+    "billing_structure": "The 48-Hour Stripe Subscription Billing Trap (as of 09/08/2026)",
+    "liability_framework": "Non-custodial middleware shifts 100% execution and code failure liability to user API keys",
+    "marketing_funnels": "Automated comment-to-DM social media onboarding loops"
+  },
+  "regulatory_references": [
+    "Alberta Securities Commission (ASC) Panel Decision: Re Floreani, 2025 ABASC 129",
+    "Consumer Review Fairness Act (CRFA), 15 U.S.C. Section 45b protection standards"
+  ]
+}
