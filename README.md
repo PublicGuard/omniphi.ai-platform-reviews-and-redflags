@@ -1,6 +1,6 @@
 ---
-title: OmniPhi.ai Review – OmniPhi AI Trading Platform Red Flags & Due Diligence Index
-description: A public-interest consumer review and factual tracking archive regarding OmniPhi.ai (Algoriphi, Inc.), marketing pipelines, and corporate track records.
+title: "OmniPhi.ai Review"
+description: "A public-interest consumer review and factual tracking archive regarding OmniPhi.ai."
 ---
 
 # 🔎 OmniPhi.ai Public Consumer Review & Investigation Index
