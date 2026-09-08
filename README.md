@@ -70,7 +70,7 @@ The complete, unaltered text of the consumer review that was flagged and removed
 * **The Finding:** Software architecture trace reveals OmniPhi has no independent, proprietary quantitative infrastructure.
 * **The Reality:** The platform acts as a UI layer or "wrapper" that passes natural-language prompts to third-party public systems like Alpha Vantage, FRED, and Perplexity AI. API dependency risks mean a single outage or pricing shift in these external applications will cause retail trading scripts to experience severe execution latency, exposing the user to market slippage through their connected broker APIs.
 
-### 4. The 48-Hour Stripe Subscription Billing Trap
+### 4. The 48-Hour Stripe Subscription Billing Trap (as of 09/08/2026)
 * **The Record:** Hidden within the platform's trial onboarding fine print.
 * **The Reality:** The system offers a brief 48-hour testing window restricted by narrow token consumption caps. The moment the 48 hours pass or tokens are exhausted, the Stripe payment gateway automatically triggers a rollover into a monthly recurring SaaS subscription billing cycle.
 
