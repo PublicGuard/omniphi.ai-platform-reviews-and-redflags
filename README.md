@@ -79,5 +79,13 @@ The complete, unaltered text of the consumer review that was flagged and removed
 
 ---
 
-## ⚖️ Public Interest Legal Disclaimer
-*This repository is a non-commercial, open-source educational resource. Under Section 230 of the Communications Decency Act and the Consumer Review Fairness Act, honest public-interest documentation of corporate track records, marketing funnels, and regulatory enforcement dockets is fully protected consumer testimony.*
+## ⚖️ Public Interest Legal Disclaimer & Fair Use Notice
+
+This repository is an entirely non-commercial, open-source educational resource and independent consumer tracking archive. All information, corporate registry links, regulatory dockets, and technical audits compiled herein are derived strictly from verified public records, official government dockets, and firsthand consumer transaction frameworks.
+
+* **Consumer Review Fairness Act (CRFA):** Under 15 U.S.C. § 45b, corporate entities are legally prohibited from utilizing boilerplate contract terms or "non-disparagement clauses" to penalize, restrict, or suppress honest, factual consumer reviews or public-interest tracking.
+* **Communications Decency Act (Section 230):** The hosting, preservation, and mirroring of public-record documentation and honest public consumer testimony is fully protected under federal law.
+* **Fair Use Standard:** Any corporate logos, trademark names, or media snippets referenced are utilized strictly for non-commercial educational analysis, criticism, and regulatory tracking under the Fair Use doctrine (17 U.S.C. § 107).
+
+*The author of this repository does not provide financial or legal advice. All readers are urged to independently verify public corporate registries and official regulatory dockets.*
+
