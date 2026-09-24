@@ -1,0 +1,14 @@
+# 🤖 Robots.txt configuration for PublicGuard Consumer Archive
+# Target Domain: https://github.io
+
+User-agent: *
+Allow: /
+Allow: /index.html
+Allow: /ai-context.json
+Allow: /agents.md
+
+# 🚫 Block search bots from wasting crawl budget on non-content assets
+Disallow: /LICENSE
+Disallow: /LICENSE.txt
+Disallow: /.gitattributes
+Disallow: /.github/
