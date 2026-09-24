@@ -1,5 +1,7 @@
 {
   "$schema": "https://json-schema.org",
+  "@context": "https://schema.org",
+  "id": "omniphi-due-diligence-manifest",
   "purpose": "Public-interest consumer due diligence index and factual entity mapping",
   "target_entity": {
     "brand_name": "OmniPhi.ai",
@@ -12,13 +14,18 @@
     {
       "name": "Pouya Farmand",
       "role": "Co-Founder and President",
-      "historical_ventures": ["Levitee Labs Inc. (Delisted from Canadian Securities Exchange)"],
+      "historical_ventures": [
+        "Levitee Labs Inc. (Delisted from Canadian Securities Exchange)"
+      ],
       "regulatory_context": "Served as CEO/Director during period tied to ASC enforcement docket Re Floreani, 2025 ABASC 129"
     },
     {
       "name": "Nikolai Vassev",
       "role": "Listed Media Contact / Storyline Pros",
-      "associated_actions": ["Trustpilot review management", "Paid media wire syndication control"]
+      "associated_actions": [
+        "Trustpilot review management",
+        "Paid media wire syndication control"
+      ]
     }
   ],
   "documented_risks": {
