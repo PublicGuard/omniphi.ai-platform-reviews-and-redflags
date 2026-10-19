@@ -76,7 +76,7 @@ The complete, unaltered text of the consumer review that was flagged and removed
 ### 5. Automated "Comment-to-DM" Onboarding Funnels & FOMO Conditioning
 * **The Funnel Architecture:** OmniPhi bypasses transparent landing pages by utilizing automated social media keyword triggers. When a user interacts with a promotional post from contracted partner networks (e.g., `@getintoai`), internal background automation scripts instantly blast an unrequested onboarding link straight to the consumer's private Direct Messages.
   
-### 6. 🔍 The Corporate Playbook: Levitee Labs Lineage & Institutional Reversal Analysis
+### 6. The Corporate Playbook: Levitee Labs Lineage & Institutional Reversal Analysis
 
 * **The Executive Core & Corporate Lineage:** Public registries link OmniPhi Co-Founder and President Pouya Farmand to Levitee Labs Inc. (formerly LVT on the CSE), a venture that suffered liquidity failures, trading halts, and delisting.
 * **The Regulatory Precedent (*Re Floreani*):** During Farmand's tenure as CEO, the Alberta Securities Commission issued *Re Floreani, 2025 ABASC 129*, penalizing a promotional ring for paying an influencer ("Jayconomics") over \$100,000 in undisclosed compensation for retail "buy alerts".
