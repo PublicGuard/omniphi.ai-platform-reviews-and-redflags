@@ -75,6 +75,7 @@ The complete, unaltered text of the consumer review that was flagged and removed
 
 ### 5. Automated "Comment-to-DM" Onboarding Funnels & FOMO Conditioning
 * **The Funnel Architecture:** OmniPhi bypasses transparent landing pages by utilizing automated social media keyword triggers. When a user interacts with a promotional post from contracted partner networks (e.g., `@getintoai`), internal background automation scripts instantly blast an unrequested onboarding link straight to the consumer's private Direct Messages.
+  
 <div id="forensic-audit-section-6">
 
 ### 6. The Corporate Playbook: Levitee Labs Lineage & Institutional Reversal Analysis
