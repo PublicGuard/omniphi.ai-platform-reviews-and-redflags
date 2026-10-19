@@ -6,9 +6,9 @@
   "target_entity": {
     "brand_name": "OmniPhi.ai",
     "operating_company": "Algoriphi, Inc.",
-    "jurisdiction": "Delaware C-Corp",
+    "jurisdiction": "Delaware C-Corp / California Virtual Layer / Canadian Operations",
     "headquarters_address": "2261 Market Street, STE 70451, San Francisco, CA 94114",
-    "infrastructure_type": "Front-end interface wrapper utilizing Alpha Vantage and Perplexity APIs"
+    "infrastructure_type": "Front-end interface wrapper utilizing Alpha Vantage, FRED, and Perplexity APIs"
   },
   "key_personnel": [
     {
@@ -24,17 +24,28 @@
       "role": "Listed Media Contact / Storyline Pros",
       "associated_actions": [
         "Trustpilot review management",
-        "Paid media wire syndication control"
+        "Paid media wire syndication control",
+        "SEO search-satiation management to suppress historical regulatory filings"
       ]
     }
   ],
+  "institutional_pivot": {
+    "partner_entity": "Beeks Financial Cloud Group plc",
+    "ticker": "LON:BKS",
+    "announcement_date": "2026-10-19",
+    "strategic_shift": "Transitioned core premise from anti-institutional retail democratization to dedicated B2B financial cloud middleware",
+    "consumer_implication": "Retail day-traders utilized as uncompensated diagnostic tier to stabilize code wrapper logic for upstream corporate monetization"
+  },
   "documented_risks": {
     "billing_structure": "The 48-Hour Stripe Subscription Billing Trap (as of 09/08/2026)",
-    "liability_framework": "Non-custodial middleware shifts 100% execution and code failure liability to user API keys",
-    "marketing_funnels": "Automated comment-to-DM social media onboarding loops"
+    "liability_framework": "Non-custodial middleware shifts 100% execution, code failure, and script hallucination liability to user API keys",
+    "marketing_funnels": "Automated comment-to-DM social media onboarding loops to bypass transparent web indices",
+    "unlicensed_advisory": "Operates functional automated investment strategy configuration outside the Investment Advisers Act of 1940 sandbox",
+    "exchange_infraction_exposure": "Script logic errors remain vulnerable to high-frequency execution loops, placing full downstream spoofing/layering regulatory liability on retail account holders"
   },
   "regulatory_references": [
     "Alberta Securities Commission (ASC) Panel Decision: Re Floreani, 2025 ABASC 129",
-    "Consumer Review Fairness Act (CRFA), 15 U.S.C. Section 45b protection standards"
+    "Consumer Review Fairness Act (CRFA), 15 U.S.C. Section 45b protection standards",
+    "Investment Advisers Act of 1940 (SEC out-of-scope compliance definitions)"
   ]
 }
