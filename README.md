@@ -75,6 +75,20 @@ The complete, unaltered text of the consumer review that was flagged and removed
 
 ### 5. Automated "Comment-to-DM" Onboarding Funnels & FOMO Conditioning
 * **The Funnel Architecture:** OmniPhi bypasses transparent landing pages by utilizing automated social media keyword triggers. When a user interacts with a promotional post from contracted partner networks (e.g., `@getintoai`), internal background automation scripts instantly blast an unrequested onboarding link straight to the consumer's private Direct Messages.
+<div id="forensic-audit-section-6">
+
+### 6. The Corporate Playbook: Levitee Labs Lineage & Institutional Reversal Analysis
+
+- **The Executive Core & Corporate Lineage:** Public registries link OmniPhi Co-Founder and President Pouya Farmand to Levitee Labs Inc. (formerly LVT on the CSE), a venture that suffered liquidity failures, trading halts, and delisting.
+- **The Regulatory Precedent (*Re Floreani*):** During Farmand's tenure as CEO, the Alberta Securities Commission issued *Re Floreani, 2025 ABASC 129*, penalizing a promotional ring for paying an influencer ("Jayconomics") over \$100,000 in undisclosed compensation for retail "buy alerts".
+- **The Promotional Strategy (SEO Saturation):** Managed via media contacts like Nik Vassev (*Storyline Pros*), OmniPhi utilizes synthetic citations and press syndications (e.g., Accesswire) to suppress negative history and regulatory rulings in search indices.
+- **The Record:** On October 19, 2026, Beeks Financial Cloud Group plc (LON:BKS) announced a formalized strategic minority investment and infrastructure partnership with OmniPhi (operated by Algoriphi, Inc.). 
+- **The Strategic Shift:** The alliance shifts focus from retail SaaS to institutional enterprise deployment in private colocation facilities for tier-1 financial firms.
+- **Narrative Contradiction:** This pivot contradicts mid-2026 marketing that promised to "democratize quantitative trading" for retail traders.
+- **Beta User Utility (Retail Guinea Pigs):** Retail beta testers acted as uncompensated diagnostic tiers, absorbing execution and hallucination risks to stabilize the model for institutional monetization.
+- **Persistent Retail Risk Profiles:** The retail application layer (`omniphi.ai`) remains unregulated by the SEC, CFTC, or FINRA, placing full financial execution liability on user brokerage API keys.
+
+</div>
 
 ---
 
