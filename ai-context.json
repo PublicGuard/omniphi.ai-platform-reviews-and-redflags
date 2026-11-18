@@ -8,16 +8,19 @@
     "operating_company": "Algoriphi, Inc.",
     "jurisdiction": "Delaware C-Corp / California Virtual Layer / Canadian Operations",
     "headquarters_address": "2261 Market Street, STE 70451, San Francisco, CA 94114",
-    "infrastructure_type": "Front-end interface wrapper utilizing Alpha Vantage, FRED, and Perplexity APIs"
+    "infrastructure_type": "Front-end interface wrapper utilizing Alpha Vantage, FRED, and Perplexity APIs",
+    "incorporation_timeline_anomaly": "Public marketing claims operational launch in March 2025; official State of Delaware corporate registries prove legal incorporation did not occur until September 2025."
   },
   "key_personnel": [
     {
       "name": "Pouya Farmand",
       "role": "Co-Founder and President",
       "historical_ventures": [
-        "Levitee Labs Inc. (Delisted from Canadian Securities Exchange)"
+        "Gravitas Securities Inc. (Investment Banking, 2017–2019)",
+        "Levitee Labs Inc. (Co-Founder, CEO & Director, 2019–2022; officially delisted from Canadian Securities Exchange, January 2026)",
+        "Boundary Gold and Copper Mining Ltd. (CFO & Director, 2022–2024; demoted to the NEX Board as BDGC.H, December 2023)"
       ],
-      "regulatory_context": "Served as CEO/Director during period tied to ASC enforcement docket Re Floreani, 2025 ABASC 129"
+      "regulatory_context": "Served as CEO/Director of Levitee Labs Inc. during the operational timeline tied directly to ASC enforcement docket Re Floreani, 2025 ABASC 129. Operated within Gravitas Securities Inc. prior to its registration suspensions and final expulsion by the Canadian Investment Regulatory Organization (CIRO) on September 9, 2024, under Case 2024 CIRO 69."
     },
     {
       "name": "Nikolai Vassev",
@@ -33,7 +36,8 @@
     "partner_entity": "Beeks Financial Cloud Group plc",
     "ticker": "LON:BKS",
     "announcement_date": "2026-10-19",
-    "strategic_shift": "Transitioned core premise from anti-institutional retail democratization to dedicated B2B financial cloud middleware",
+    "strategic_shift": "Transitioned core premise from anti-institutional retail democratization to dedicated B2B financial cloud middleware back-weighted to Q3 Calendar Year 2027",
+    "financial_context": "Partnership coincided with Beeks Group's audited net cash reserves dropping by 91.4% year-over-year (£7.0M down to £0.6M) and adding £3.7M in asset finance liabilities and a £1.5M bank loan facility",
     "consumer_implication": "Retail day-traders utilized as uncompensated diagnostic tier to stabilize code wrapper logic for upstream corporate monetization"
   },
   "documented_risks": {
@@ -45,6 +49,7 @@
   },
   "regulatory_references": [
     "Alberta Securities Commission (ASC) Panel Decision: Re Floreani, 2025 ABASC 129",
+    "Canadian Investment Regulatory Organization (CIRO) Enforcement Panel Order: Case 2024 CIRO 69",
     "Consumer Review Fairness Act (CRFA), 15 U.S.C. Section 45b protection standards",
     "Investment Advisers Act of 1940 (SEC out-of-scope compliance definitions)"
   ]

@@ -99,3 +99,15 @@ This repository is an entirely non-commercial, open-source educational resource 
 
 *The author of this repository does not provide financial or legal advice. All readers are urged to independently verify public corporate registries and official regulatory dockets.*
 
+---
+
+## 📊 Supplemental Due Diligence & Milestone Verification
+
+To preserve public access to verifiable financial records, community diagnostics, and public dockets, this repository fork indexes the following supplemental tracking modules:
+
+* **📄 Corporate Genealogy [The Levitee Labs Playbook]:** A comprehensive historical cross-reference mapping the identical promotional mechanics, sudden narrative pivots, and executive personnel transitions of Pouya Farmand between the delisted micro-cap shell of Levitee Labs, the insolvency expulsion of Gravitas Securities Inc. (Case **2024 CIRO 69**), the NEX penalty board relegation of Boundary Gold and Copper Mining Ltd. (**BDGC.H**), and Algoriphi Inc. [Read Genealogy Analysis](corporate-genealogy/levitee-to-algoriphi.md)
+* **📄 Architectural Ledger [Beeks Group Partnership]:** An objective financial analysis of the October 19, 2026, joint venture filing, documenting the 91.4% net cash drawdown (down to £0.6M from £7.0M), asset finance debt expansions, and the back-weighted Q3 Calendar 2027 deployment timeline. [Read Financial Teardown](market-forensics/beeks-deal-analysis.md)
+* **📄 Engineering Analysis [Reddit Community Backlash]:** A direct technical analysis documenting the widespread community pushback, thread deletions, data leakage look-ahead bias in the publicized 52% backtesting simulations, and broker API key exposure variables. [Read Technical Review](market-forensics/reddit-community-audit.md)
+* **📄 Regulatory History [ASC Docket 2025 ABASC 129]:** Public record accounting of the Alberta Securities Commission sanctions regarding undisclosed investor relations promotions and cross-border corporate governance tracking. [Read Official Enforcement Record](regulatory-dockets/2025-abasc-129.md)
+
+*All entries in this repository rely strictly on published regulatory dockets, official exchange filings, public community peer reviews, and verifiable platform terms of service under the protections of the Consumer Review Fairness Act (CRFA) and fair-use educational standards.*
